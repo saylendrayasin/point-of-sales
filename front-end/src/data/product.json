@@ -1,0 +1,81 @@
+[
+  {
+    "id": 1,
+    "name": "Refrigerator",
+    "price": 10000,
+    "stock": 50,
+    "picture": "https://cdn.pixabay.com/photo/2017/06/19/18/03/refrigerator-2420419_1280.png"
+  },
+  {
+    "id": 2,
+    "name": "Wardrobe",
+
+    "price": 20000,
+    "stock": 30,
+    "picture": "https://cdn.pixabay.com/photo/2014/12/21/23/46/armoire-576018_960_720.png"
+  },
+  {
+    "id": 3,
+    "name": "Shoes",
+    "price": 15000,
+    "stock": 20,
+    "picture": "https://cdn.pixabay.com/photo/2016/12/10/16/57/shoes-1897708_960_720.jpg"
+  },
+  {
+    "id": 4,
+    "name": "TV",
+    "price": 30000,
+    "stock": 10,
+    "picture": "https://cdn.pixabay.com/photo/2016/10/08/00/04/tv-1722834_960_720.png"
+  },
+  {
+    "id": 5,
+    "name": "Shirt",
+    "price": 25000,
+    "stock": 15,
+    "picture": "https://cdn.pixabay.com/photo/2024/05/25/05/33/ai-generated-8786355_960_720.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Hat",
+
+    "price": 12000,
+    "stock": 25,
+    "picture": "https://cdn.pixabay.com/photo/2013/07/13/12/14/hat-159463_1280.png"
+  },
+  {
+    "id": 7,
+    "name": "Table",
+    "price": 18000,
+    "stock": 40,
+    "picture": "https://cdn.pixabay.com/photo/2014/12/21/23/50/table-576148_1280.png"
+  },
+  {
+    "id": 8,
+    "name": "Chair",
+    "price": 22000,
+    "stock": 35,
+    "picture": "https://cdn.pixabay.com/photo/2017/01/31/23/50/business-2028295_960_720.png"
+  },
+  {
+    "id": 9,
+    "name": "Laptop",
+    "price": 17000,
+    "stock": 45,
+    "picture": "https://cdn.pixabay.com/photo/2013/07/13/11/46/laptop-158648_960_720.png"
+  },
+  {
+    "id": 10,
+    "name": "Handphone",
+    "price": 28000,
+    "stock": 22,
+    "picture": "https://cdn.pixabay.com/photo/2012/04/14/12/59/handphone-33839_1280.png"
+  },
+  {
+    "id": 11,
+    "name": "Miror",
+    "price": 35000,
+    "stock": 12,
+    "picture": "https://cdn.pixabay.com/photo/2013/07/13/13/35/frame-161150_960_720.png"
+  }
+]
